@@ -9,7 +9,7 @@ tanto en el frontend como en el backend.
 
 Tenemos el siguiente servicio activo, que regresa información sobre las ventas y gastos de distintos departamentos de una empresa:
 
-[http://aphmx442916.azurewebsites.net/sales/data/{id}/{yyyy-MM-dd}](http://aphmx442916.azurewebsites.net/sales/data/%7bid%7d/%7byyyy-MM-dd%7d)
+[http://aphmx442916.azurewebsites.net/sales/data/{id}/{yyyy-MM-dd}](https://aphmx442916.azurewebsites.net/sales/data/619/2015-06-12)
 
 Este servicio regresa un siguiente JSON, como en el siguiente ejemplo:
 
