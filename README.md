@@ -49,7 +49,7 @@ El reporte deberá realizarse de la siguiente manera:
 
 - API en .Net usando C#
   - Proyecto “NombreCandidato-API”
-  - Recibe los parámetros IDs y fecha
+  - Recibe los parámetros: lista de IDs y fecha
   - Regresa los datos necesarios para mostrar el reporte
   - Registrar en la base de datos SQL Server la bitácora de la petición, incluyendo los parámetros, el resultado que se regresa y las iniciales del nombre del candidato.
   - Este proyecto debe invocar el servicio arriba mencionado tantas veces como sea necesario, por cada uno de los IDs recibidos.
